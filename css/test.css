@@ -1,0 +1,7 @@
+h1{
+font-size: 30px; color: salmon;
+}
+h2{
+font-size: 22px; color: purple;
+}
+h1 span {color: darkgreen}
